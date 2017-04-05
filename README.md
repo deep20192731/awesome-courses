@@ -6,7 +6,7 @@ Introduction
 
 There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 
-<b>(This is a great resource organized by @prakhar1989. In this forked-repo I will add more resources I come across)</b>
+<i>(This is a great resource organized by @prakhar1989. In this forked-repo, I will add resources as I come across)</i>
 
 Table of Contents
 -----------------
